@@ -1,0 +1,19 @@
+{
+  "videos": [
+    {
+      "title": "Golova Vintom",
+      "url": "https://www.youtube.com/embed/ckBUTuaSSxc",
+      "_id": "1"
+    },
+    {
+      "title": "I Got Love",
+      "url": "https://www.youtube.com/embed/nidQCt_HEsY",
+      "_id": "2"
+    },
+    {
+      "title": "Thrift Shop",
+      "url": "https://www.youtube.com/embed/QK8mJJJvaes",
+      "_id": "3"
+    }
+  ]
+}
